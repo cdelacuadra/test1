@@ -4,4 +4,6 @@ description here, just a paragraph
 
 * bullet 1
 
->quote<
+1. number
+
+>quote
